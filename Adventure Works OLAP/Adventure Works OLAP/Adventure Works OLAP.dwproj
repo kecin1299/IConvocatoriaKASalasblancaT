@@ -46,6 +46,14 @@
   </DataSourceViews>
   <Roles>
     <ProjectItem>
+      <Name>Kevin.role</Name>
+      <FullPath>Kevin.role</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Role 1.role</Name>
+      <FullPath>Role 1.role</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>Limited User.role</Name>
       <FullPath>Limited User.role</FullPath>
     </ProjectItem>

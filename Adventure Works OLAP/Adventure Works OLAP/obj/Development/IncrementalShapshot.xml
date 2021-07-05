@@ -33,43 +33,57 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>gtGkJnyuaqbXwpCZQG/wV3HpCL4=2/20/2021 12:50:23 PM7/5/2021 9:51:24 PM</TimeStamp>
+        <TimeStamp>pmAdd4sdamhF9pp1ZpLMt8bk6cs=7/5/2021 10:27:20 PM7/5/2021 9:51:24 PM</TimeStamp>
         <ID>
           <String>Date</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>AXJKEGEVLjQvu/GZ7glwXMmDetw=7/5/2021 9:54:40 PM7/5/2021 9:51:23 PM</TimeStamp>
+        <TimeStamp>h64wEh7MnWKjYDg9UCvy/IVogL8=7/5/2021 10:27:20 PM7/5/2021 9:51:23 PM</TimeStamp>
         <ID>
           <String>Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>XbXHUzAwi1bJKDgEl9ad8VqngJI=7/5/2021 9:54:40 PM7/5/2021 9:51:25 PM</TimeStamp>
+        <TimeStamp>5oZRa6mpCpAOj3nP7xlA7X1Z/X8=7/5/2021 10:27:20 PM7/5/2021 9:51:25 PM</TimeStamp>
         <ID>
           <String>Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>jMc8esk4pCfx4sGCJx9iz9N6ots=7/5/2021 9:54:40 PM7/5/2021 9:51:21 PMTNxEbJrv7vXLTOxFEqm9OVleIEY=2/20/2021 12:31:20 PM7/5/2021 9:51:21 PM</TimeStamp>
+        <TimeStamp>Sb4WKz1whpGEU+jSsRHAkS+CyLg=7/5/2021 10:27:20 PM7/5/2021 9:51:21 PMTNxEbJrv7vXLTOxFEqm9OVleIEY=2/20/2021 12:31:20 PM7/5/2021 9:51:21 PM</TimeStamp>
         <ID>
           <String>Adventure Works Cube</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Role</Type>
-        <TimeStamp>KQpSPLcPZgib0U4gC08YsI+BuTw=7/5/2021 9:54:40 PM7/5/2021 9:53:09 PM</TimeStamp>
+        <TimeStamp>gmUEEN6nkTHLRRw6dIOHLXJ2hSY=7/5/2021 10:24:06 PM7/5/2021 10:12:36 PM</TimeStamp>
         <ID>
           <String>Role</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Role</Type>
+        <TimeStamp>hXicBVH/3FfuPQe5TFsXFluUc5g=7/5/2021 10:21:36 PM7/5/2021 10:21:36 PM</TimeStamp>
+        <ID>
+          <String>Role 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Role</Type>
+        <TimeStamp>yYiXGvYvgaNlQtAXTcCjolc1r4s=7/5/2021 10:27:20 PM7/5/2021 10:26:13 PM</TimeStamp>
+        <ID>
+          <String>Role 2</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>h+MwfMMJOZsDlLTlWCsTUy3D2eI=7/5/2021 9:54:40 PM7/5/2021 9:51:22 PM</TimeStamp>
+      <TimeStamp>l2K/XWpb6m1ZO7vr2LTxgfYviII=7/5/2021 10:27:20 PM7/5/2021 9:51:22 PM</TimeStamp>
       <ID>
         <String>Adventure Works OLAP</String>
       </ID>
@@ -78,5 +92,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2021-07-05T21:54:42.316667Z</LastDeployed>
+  <LastDeployed>2021-07-05T22:27:26.216667Z</LastDeployed>
 </DeploymentSnapshot>
